@@ -1,0 +1,13 @@
+usr/bin/plasma-phone
+usr/lib/
+usr/share/applications/
+usr/share/dbus-1/
+usr/share/knotifications5/
+usr/share/kservices5/
+usr/share/kwin/
+usr/share/locale/
+usr/share/metainfo/
+usr/share/plasma/
+usr/share/sounds/
+usr/share/telepathy/
+usr/share/wallpapers/
